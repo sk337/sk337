@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am sk337 or rf.to  and i enjoy coding :) I am best at JavaScript and Python 
+I am sk337 and i enjoy coding :) I am best at JavaScript and rust
 
 
 
